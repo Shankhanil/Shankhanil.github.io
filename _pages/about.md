@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Graduate Researcher, SCIS, University of Hyderabad</a> <br> Hyderabad, Telangana 500046. <br> shankha.rik@gmail.com , 20mcmb04@uohyd.ac.in
+description: <a href="#">Graduate Researcher, SCIS, University of Hyderabad</a> <br> Hyderabad, Telangana 500046.
 
 profile:
   align: right
