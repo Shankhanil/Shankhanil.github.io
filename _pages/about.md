@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Graduate Researcher, SCIS, University of Hyderabad</a> <br> Hyderabad, Telangana 500046.
+description: Graduate Researcher, SCIS, University of Hyderabad <br> Hyderabad, Telangana 500046.
 
 profile:
   align: right

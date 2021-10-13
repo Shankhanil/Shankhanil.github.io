@@ -2,16 +2,9 @@
 layout: page
 title: Who am I?
 permalink: /biography/
-description: TL;DR a techie, a foodie, a language enthusiast, a travel-lover, a thinker, and a procrastinator. 
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    Me, at the Bangalore Palace, 2019
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+description: TL;DR a techie, a foodie, a language enthusiast, a travel-lover, a thinker, and a former national level swimmer.
+nav: true 
 ---
 Two things excite me the most, computers and language. I learned to code little patterns on LOGO on my primary school computer when I was 10 years old. By the time I was 13, I had realized that computers were the love of my life. Another passion of my life? Languages! I grew up when I had no internet connection in my home, and I also lived in a small town with limited resources for learning a new language. So, whenever I traveled to Kolkata (my nearest big city), I used to get myself a book on language learning. French, German, Chinese, you name it! Fast forward to 2019, I began working as an undergraduate researcher in natural language processing, where I got to play with computers and languages all day! Today, I am a graduate researcher working on multi-modal deep learning. <br><br>
+Apart from languages and computers, I am a big time foodie, and I would love to spend a big amount of time discussing different food cultures. If you ask me what my favorite food is, there is no simple answer. Indian? Biryani. Chinese? Chilli Chicken and Chowmein. Japanese? Tonkotsu ramen! There's just so many! I actually want to travel the work, tasting different food cultures. In fact, I have a <a href = "https://youtube.com/playlist?list=PL2REUR9swEndriFqLQtme_3NFhno5eqNv"> youtube playlist recommendation </a> for you, which you might like! Which, brings me to my next interest, travelling! I have mostly travelled around India, and I have visited awesome places like Ooty, Sikkim, Kashmir. I will probably never forget the beautiful houseboat I stayed in Kashmir. Or the sound of snowfall outside our cottage in Lachung, Sikkim. <br><br>
+Oh, did I mention about my swimming career? When I was 8 years old, I joined a swimming club in my town. On day one, I sucked massively at my training and went back crying, vowing to never go back. My mother forced me to go back. Fast forward to 2012, I was 14 years old, and I was competing as the youngest member in the SFI national level long distance swimming championship, where I swam for 14kms and secured the fourth position among 46 male swimmers. I continued my swimming career for another 3 years, during which I participated in 19 km long distance swimming championship (national leve) and CBSE Zonal Swimming championship, where I represented my school in 200m and 800m freestyle. 
