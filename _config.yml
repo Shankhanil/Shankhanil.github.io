@@ -79,7 +79,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 blog_name: A Technical Mind  # your blog must have a name for it to show up in the nav bar
 blog_description: A journey into deepest corner of Machine Learning. 
-permalink: /blog/:year/:title/
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -102,6 +102,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  medium_posts:
+    output: true
+    permalink: /blog
 
 news_limit: 5
 
