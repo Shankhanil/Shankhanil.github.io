@@ -77,9 +77,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: A Technical Mind  # your blog must have a name for it to show up in the nav bar
-blog_description: A journey into deepest corner of Machine Learning. 
-# permalink: /blog/:year/:title/
+blog_name: My blog on machine learning  # your blog must have a name for it to show up in the nav bar
+blog_description: My blog posts will be available here soon. Please visit my medium blog (@i-am-shankhanil) till then.
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -102,9 +102,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  medium_posts:
-    output: true
-    permalink: /blog
 
 news_limit: 5
 
