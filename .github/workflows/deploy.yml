@@ -1,5 +1,5 @@
 name: Deploy
-
+  uses: ruby/setup-ruby@v1.152.0
 on:
   push:
     branches:
