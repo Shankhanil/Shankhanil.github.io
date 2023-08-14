@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: My publications in chronological order. <br> *Accepted for publication
-years: [2021]
+years: [2021, 2022]
 nav: true
 ---
 
